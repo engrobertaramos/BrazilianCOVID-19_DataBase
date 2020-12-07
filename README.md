@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 The coronavirus pandemic affects nations worldwide, responsible for the death of people and profoundly impacting people's daily lives, countries' economies and health systems.
 The 'Sistema Único de Saúde' (SUS) is the Brazilian public health system, with the premise that access to health is universal and free for all. Being responsible for centralizing health-related information in the Brazilian territory and due to the legal responsibilities regarding the guarantee of access to information for all citizens, information on the notifications of suspected cases of health was made available in DataSUS (health database). COVID-19.
 To make the information available, the .csv format was chosen, however due to its limitation in the number of lines, consequently in the number of possible records, there was a need to adopt subdivision of the information. Separated by state and, as needed, each state has more than one .csv file
